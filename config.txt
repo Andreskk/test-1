@@ -1,3 +1,2 @@
 [user]
 	email = andreskkuura@gmail.com
-	name = AndresKKuura
