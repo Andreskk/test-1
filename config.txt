@@ -1,4 +1,3 @@
 [user]
 	email = andreskkuura@gmail.com
-
-pip-log.txt/ contains a log for the pip package manager install
+	name = AndresKKuura
